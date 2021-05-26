@@ -6,7 +6,16 @@ const Home = () => (
       <title>Next.js on the Jamstack with Netlify!</title>
     </Head>
     <h1>
-      Next.js on the <a href="https://jamstack.org">Jamstack</a>
+      Lee las  <a href="https://lacritica.com.ar">noticias de tucuman</a>
+    </h1>
+<h1>
+      Lee las  <a href="https://epaepa.oss-ap-northeast-1.aliyuncs.com/index.html">noticias de tucuman</a>
+    </h1>
+<h1>
+      Seguinos en  <a href="https://ar.pinterest.com/LACRITICAok">pinterest</a>
+    </h1>
+  <h1>
+      Seguinos en  <a href="https://tucuman.hatenablog.com/entry/2021/05/15/133138">japones</a>
     </h1>
 
     <h3>
