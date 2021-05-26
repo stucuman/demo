@@ -17,7 +17,41 @@ const Home = () => (
   <h1>
       Seguinos en  <a href="https://tucuman.hatenablog.com/entry/2021/05/15/133138">japones</a>
     </h1>
-
+<h1>
+      Lee las  <a href="https://people.mozilla.org/p/sebasg">mozillla</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://www.google.es/url?q=https://lacritica.com.ar/">ricardo bussi</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://spark.adobe.com/page/QGyPFWsmiJCTK/">adobe</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://huffduffer.com/sebasg/610279">huff</a>
+    </h1><h1>
+      Lee las  <a href="https://epaepa.oss-ap-northeast-1.aliyuncs.com/index.html">epa</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://bit.ly/3eLLr0v">bitlyn</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://sebastiangomes5.wixsite.com/tuquman">wix</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://images.google.de/url?q=https://lacritica.com.ar/">noticias de tucuman</a>
+    </h1><h1>
+      Lee las  <a href="https://images.google.co.uk/url?q=https://lacritica.com.ar/">noticias de tucuman</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://images.google.co.jp/url?q=https://lacritica.com.ar/">noticias de tucuman</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://images.google.es/url?q=https://lacritica.com.ar/">noticias de tucuman</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://lacritica.com.ar">tucuman</a>
+    </h1>
+  
     <h3>
       Hooray 🎉 - you've built this with{' '}
       <a href="https://nextjs.org">Next.js</a>!
