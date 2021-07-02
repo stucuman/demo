@@ -11,6 +11,15 @@ const Home = () => (
 <h1>
       Lee las  <a href="https://epaepa.oss-ap-northeast-1.aliyuncs.com/index.html">noticias de tucuman</a>
     </h1>
+  <h1>
+      Lee las  <a href="https://tucumann.oss-ap-northeast-1.aliyuncs.com/index.html">tucuman noticias</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://vickigp.oss-ap-northeast-1.aliyuncs.com/index.html">noticias tucuman</a>
+    </h1>
+  <h1>
+      Lee las  <a href="https://mariasol.oss-ap-northeast-1.aliyuncs.com/index.html">noticias de tucuman hoy</a>
+    </h1>
 <h1>
       Seguinos en  <a href="https://ar.pinterest.com/LACRITICAok">pinterest</a>
     </h1>
