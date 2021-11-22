@@ -21,16 +21,16 @@ const Home = () => (
       Lee las  <a href="https://mariasol.oss-ap-northeast-1.aliyuncs.com/index.html">noticias de tucuman hoy</a>
     </h1>
 <h1>
-      Seguinos en  <a href="https://ar.pinterest.com/LACRITICAok">pinterest</a>
+      Seguinos en  <a href="https://destinosur">Destino sur </a>
     </h1>
   <h1>
-      Seguinos en  <a href="https://tucuman.hatenablog.com/entry/2021/05/15/133138">japones</a>
+      Seguinos en  <a href="https://bekreative.com.ar/seo-en-tucuman">seo en tucuman</a>
     </h1>
 <h1>
-      Lee las  <a href="https://people.mozilla.org/p/sebasg">mozillla</a>
+      Lee las  <a href="https://argentinosenbarcelona.com">argentinos en barcelona</a>
     </h1>
   <h1>
-      Lee las  <a href="https://www.google.es/url?q=https://lacritica.com.ar/">ricardo bussi</a>
+      Lee las  <a href="https://tolkeyenpatagonia.com/">ushuaia</a>
     </h1>
   <h1>
       Lee las  <a href="https://spark.adobe.com/page/QGyPFWsmiJCTK/">adobe</a>
