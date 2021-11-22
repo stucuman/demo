@@ -152,7 +152,7 @@ const Home = () => (
       .content {
         padding: 0 32px;
       }
-    `}</style>
+    `}<style/>
   </div>
 `);
 
